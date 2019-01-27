@@ -1,6 +1,10 @@
 [
   {
-    title: "Intro to javascript.",
-    url: "https://www.youtube.com/embed/nItSSTwBvSU"
+    "title": "Title of the first lesson",
+    "url": "https://the.youtube.embed.url"
+  },
+  {
+    "title": "Title of the second lesson",
+    "url": "https://www.youtube.com/embed/nItSSTwBvSU"
   }
 ]
